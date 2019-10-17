@@ -1,0 +1,378 @@
+\begin{thebibliography}{10}
+
+\bibitem{baresi2010fuzzy}
+Luciano Baresi, Liliana Pasquale, and Paola Spoletini.
+\newblock Fuzzy goals for requirements-driven adaptation.
+\newblock In {\em Requirements Engineering Conference (RE), 2010 18th IEEE
+  International}, pages 125--134. IEEE, 2010.
+
+\bibitem{berander2005requirements}
+Patrik Berander and Anneliese Andrews.
+\newblock Requirements prioritization.
+\newblock In {\em Engineering and managing software requirements}, pages
+  69--94. Springer, 2005.
+
+\bibitem{boehm1995software}
+Barry Boehm, Prasanta Bose, Ellis Horowitz, and Ming~June Lee.
+\newblock Software requirements negotiation and renegotiation aids: A theory-w
+  based spiral approach.
+\newblock In {\em Software Engineering, 1995. ICSE 1995. 17th International
+  Conference on}, pages 243--243. IEEE, 1995.
+
+\bibitem{boehm1984software}
+Barry~W Boehm.
+\newblock Software engineering economics.
+\newblock {\em Software Engineering, IEEE Transactions on}, (1):4--21, 1984.
+
+\bibitem{boehm1988spiral}
+Barry~W. Boehm.
+\newblock A spiral model of software development and enhancement.
+\newblock {\em Computer}, 21(5):61--72, 1988.
+
+\bibitem{boehm1976quantitative}
+Barry~W Boehm, John~R Brown, and Myron Lipow.
+\newblock Quantitative evaluation of software quality.
+\newblock In {\em Proceedings of the 2nd international conference on Software
+  engineering}, pages 592--605. IEEE Computer Society Press, 1976.
+
+\bibitem{boehm2000software}
+Barry~W Boehm, Ray Madachy, Bert Steece, et~al.
+\newblock {\em Software Cost Estimation with Cocomo II}.
+\newblock Prentice Hall PTR, 2000.
+
+\bibitem{boyd2004convex}
+Stephen~Poythress Boyd and Lieven Vandenberghe.
+\newblock {\em Convex optimization}.
+\newblock Cambridge university press, 2004.
+
+\bibitem{bradley1977applied}
+Stephen Bradley, Arnoldo Hax, and Thomas Magnanti.
+\newblock {\em Applied mathematical programming}.
+\newblock Addison Wesley, 1977.
+
+\bibitem{brun2009engineering}
+Yuriy Brun, Giovanna Di~Marzo Serugendo, Cristina Gacek, Holger Giese, Holger
+  Kienle, Marin Litoiu, Hausi M{\"u}ller, Mauro Pezz{\`e}, and Mary Shaw.
+\newblock Engineering self-adaptive systems through feedback loops.
+\newblock In {\em Software Engineering for Self-Adaptive Systems}, pages
+  48--70. Springer, 2009.
+
+\bibitem{castro2002towards}
+Jaelson Castro, Manuel Kolp, and John Mylopoulos.
+\newblock Towards requirements-driven information systems engineering: the
+  tropos project.
+\newblock {\em Information systems}, 27(6):365--389, 2002.
+
+\bibitem{cheng2009software}
+Betty~HC Cheng, Rog{\'e}rio de~Lemos, Holger Giese, Paola Inverardi, Jeff
+  Magee, Jesper Andersson, Basil Becker, Nelly Bencomo, Yuriy Brun, Bojan
+  Cukic, et~al.
+\newblock {\em Software engineering for self-adaptive systems: A research
+  roadmap}.
+\newblock Springer, 2009.
+
+\bibitem{cleland2005utilizing}
+Jane Cleland-Huang, Raffaella Settimi, Chuan Duan, and Xuchang Zou.
+\newblock Utilizing supporting evidence to improve dynamic requirements
+  traceability.
+\newblock In {\em Requirements Engineering, 2005. Proceedings. 13th IEEE
+  International Conference on}, pages 135--144. IEEE, 2005.
+
+\bibitem{dardenne1993goal}
+Anne Dardenne, Axel Van~Lamsweerde, and Stephen Fickas.
+\newblock Goal-directed requirements acquisition.
+\newblock {\em Science of computer programming}, 20(1):3--50, 1993.
+
+\bibitem{darimont1996formal}
+Robert Darimont and Axel Van~Lamsweerde.
+\newblock Formal refinement patterns for goal-driven requirements elaboration.
+\newblock {\em ACM SIGSOFT Software Engineering Notes}, 21(6):179--190, 1996.
+
+\bibitem{davis2006effectiveness}
+Alan Davis, Oscar Dieste, Ann Hickey, Natalia Juristo, and Ana~Mar{\'\i}a
+  Moreno.
+\newblock Effectiveness of requirements elicitation techniques: Empirical
+  results derived from a systematic review.
+\newblock In {\em Requirements Engineering, 14th IEEE International
+  Conference}, pages 179--188. IEEE, 2006.
+
+\bibitem{ernst2013agile}
+Neil~A Ernst, Alexander Borgida, Ivan~J Jureta, and John Mylopoulos.
+\newblock Agile requirements engineering via paraconsistent reasoning.
+\newblock {\em Information Systems}, 2013.
+
+\bibitem{Feather+:1998:IWSSD}
+M.~S. Feather, S.~Fickas, A.~Van~Lamsweerde, and C.~Ponsard.
+\newblock Reconciling system requirements and runtime behavior.
+\newblock In {\em IWSSD}, page~50, Washington, DC, USA, 1998. IEEE Computer
+  Society.
+
+\bibitem{Fickas+:1995:RE}
+S.~Fickas and M.~S. Feather.
+\newblock Requirements monitoring in dynamic environments.
+\newblock In {\em {IEEE Int. Req. Eng. Conf.}}, pages 140--147, 1995.
+
+\bibitem{finkelstein1994inconsistency}
+Anthony~CW Finkelstein, Dov Gabbay, Anthony Hunter, Jeff Kramer, and Bashar
+  Nuseibeh.
+\newblock Inconsistency handling in multiperspective specifications.
+\newblock {\em Software Engineering, IEEE Transactions on}, 20(8):569--578,
+  1994.
+
+\bibitem{fuxman2004specifying}
+Ariel Fuxman, Lin Liu, John Mylopoulos, Marco Pistore, Marco Roveri, and Paolo
+  Traverso.
+\newblock Specifying and analyzing early requirements in tropos.
+\newblock {\em Requirements Engineering}, 9(2):132--150, 2004.
+
+\bibitem{giorgini2003reasoning}
+Paolo Giorgini, John Mylopoulos, Eleonora Nicchiarelli, and Roberto Sebastiani.
+\newblock Reasoning with goal models.
+\newblock In {\em Conceptual Modeling—ER 2002}, pages 167--181. Springer,
+  2003.
+
+\bibitem{goguen1993techniques}
+Joseph~A Goguen and Charlotte Linde.
+\newblock Techniques for requirements elicitation.
+\newblock In {\em Requirements Engineering, 1993., Proceedings of IEEE
+  International Symposium on}, pages 152--164. IEEE, 1993.
+
+\bibitem{gotel1994analysis}
+Orlena~CZ Gotel and CW~Finkelstein.
+\newblock An analysis of the requirements traceability problem.
+\newblock In {\em Requirements Engineering, 1994., Proceedings of the First
+  International Conference on}, pages 94--101. IEEE, 1994.
+
+\bibitem{greenspan1994formal}
+Sol Greenspan, John Mylopoulos, and Alex Borgida.
+\newblock On formal requirements modeling languages: Rml revisited.
+\newblock In {\em Proceedings of the 16th international conference on Software
+  engineering}, pages 135--147. IEEE Computer Society Press, 1994.
+
+\bibitem{heitmeyer1996automated}
+Constance~L Heitmeyer, Ralph~D Jeffords, and Bruce~G Labaw.
+\newblock Automated consistency checking of requirements specifications.
+\newblock {\em ACM Transactions on Software Engineering and Methodology
+  (TOSEM)}, 5(3):231--261, 1996.
+
+\bibitem{herrmann2008requirements}
+Andrea Herrmann and Maya Daneva.
+\newblock Requirements prioritization based on benefit and cost prediction: An
+  agenda for future research.
+\newblock In {\em International Requirements Engineering, 2008. RE'08. 16th
+  IEEE}, pages 125--134. IEEE, 2008.
+
+\bibitem{hickey2004unified}
+Ann~M Hickey and Alan~M Davis.
+\newblock A unified model of requirements elicitation.
+\newblock {\em Journal of Management Information Systems}, 20(4):65--84, 2004.
+
+\bibitem{howard1966decision}
+Ronald~A Howard.
+\newblock {\em Decision analysis: Applied decision theory}.
+\newblock Stanford Research Institute, 1966.
+
+\bibitem{hunter1998managing}
+Anthony Hunter and Bashar Nuseibeh.
+\newblock Managing inconsistent specifications: reasoning, analysis, and
+  action.
+\newblock {\em ACM Transactions on Software Engineering and Methodology
+  (TOSEM)}, 7(4):335--367, 1998.
+
+\bibitem{junger201050}
+Michael J{\"u}nger, Thomas Liebling, Denis Naddef, George Nemhauser, William
+  Pulleyblank, Gerhard Reinelt, Giovanni Rinaldi, and Laurence Wolsey.
+\newblock {\em 50 Years of Integer Programming 1958--2008}.
+\newblock Springer, Berlin, 2010.
+
+\bibitem{jureta2009analysis}
+Ivan Jureta, John Mylopoulos, and St{\'e}phane Faulkner.
+\newblock Analysis of multi-party agreement in requirements validation.
+\newblock In {\em Requirements Engineering Conference, 2009. RE'09. 17th IEEE
+  International}, pages 57--66. IEEE, 2009.
+
+\bibitem{jureta2010techne}
+Ivan~J Jureta, Alexander Borgida, Neil~A Ernst, and John Mylopoulos.
+\newblock Techne: Towards a new generation of requirements modeling languages
+  with goals, preferences, and inconsistency handling.
+\newblock In {\em Requirements Engineering Conference (RE), 2010 18th IEEE
+  International}, pages 115--124. IEEE, 2010.
+
+\bibitem{jureta2007clarifying}
+Ivan~J Jureta and St{\'e}phane Faulkner.
+\newblock Clarifying goal models.
+\newblock In {\em Tutorials, posters, panels and industrial contributions at
+  the 26th international conference on Conceptual modeling-Volume 83}, pages
+  139--144. Australian Computer Society, Inc., 2007.
+
+\bibitem{jureta2008revisiting}
+Ivan~J Jureta, John Mylopoulos, and Stephane Faulkner.
+\newblock Revisiting the core ontology and problem in requirements engineering.
+\newblock In {\em International Requirements Engineering, 2008. RE'08. 16th
+  IEEE}, pages 71--80. IEEE, 2008.
+
+\bibitem{karlsson1998evaluation}
+Joachim Karlsson, Claes Wohlin, and Bj{\"o}rn Regnell.
+\newblock An evaluation of methods for prioritizing software requirements.
+\newblock {\em Information and Software Technology}, 39(14):939--947, 1998.
+
+\bibitem{keeney1982decision}
+Ralph~L Keeney.
+\newblock Decision analysis: an overview.
+\newblock {\em Operations Research}, 30(5):803--838, 1982.
+
+\bibitem{keeney1993decisions}
+Ralph~L Keeney.
+\newblock {\em Decisions with multiple objectives: preferences and value
+  trade-offs}.
+\newblock Cambridge University Press, 1993.
+
+\bibitem{kettinger2005zones}
+William~J Kettinger and Choong~C Lee.
+\newblock Zones of tolerance: alternative scales for measuring information
+  systems service quality.
+\newblock {\em MIS Quarterly}, 29(4):607--623, 2005.
+
+\bibitem{krentel1988complexity}
+Mark~W Krentel.
+\newblock The complexity of optimization problems.
+\newblock {\em Journal of computer and system sciences}, 36(3):490--509, 1988.
+
+\bibitem{krogstie1995towards}
+John Krogstie, Odd~Ivar Lindland, and Guttorm Sindre.
+\newblock Towards a deeper understanding of quality in requirements
+  engineering.
+\newblock In {\em Advanced Information Systems Engineering}, pages 82--95.
+  Springer, 1995.
+
+\bibitem{leite1991requirements}
+Julio Cesar Sampaio do~Prado Leite and Peter~A Freeman.
+\newblock Requirements validation through viewpoint resolution.
+\newblock {\em Software Engineering, IEEE Transactions on}, 17(12):1253--1269,
+  1991.
+
+\bibitem{letier2004reasoning}
+Emmanuel Letier and Axel Van~Lamsweerde.
+\newblock Reasoning about partial goal satisfaction for requirements and design
+  engineering.
+\newblock In {\em ACM SIGSOFT Software Engineering Notes}, volume~29, pages
+  53--62. ACM, 2004.
+
+\bibitem{liaskos2010integrating}
+Sotirios Liaskos, Sheila~A McIlraith, Shirin Sohrabi, and John Mylopoulos.
+\newblock Integrating preferences into goal models for requirements
+  engineering.
+\newblock In {\em Requirements Engineering Conference (RE), 2010 18th IEEE
+  International}, pages 135--144. IEEE, 2010.
+
+\bibitem{mylopoulos1992representing}
+John Mylopoulos, Lawrence Chung, and Brian Nixon.
+\newblock Representing and using nonfunctional requirements: A process-oriented
+  approach.
+\newblock {\em Software Engineering, IEEE Transactions on}, 18(6):483--497,
+  1992.
+
+\bibitem{nuseibeh1994framework}
+Bashar Nuseibeh, Jeff Kramer, and Anthony Finkelstein.
+\newblock A framework for expressing the relationships between multiple views
+  in requirements specification.
+\newblock {\em Software Engineering, IEEE Transactions on}, 20(10):760--773,
+  1994.
+
+\bibitem{papadimitriou1991optimization}
+Christos~H Papadimitriou and Mihalis Yannakakis.
+\newblock Optimization, approximation, and complexity classes.
+\newblock {\em Journal of computer and system sciences}, 43(3):425--440, 1991.
+
+\bibitem{parasuraman1985conceptual}
+Anantharanthan Parasuraman, Valarie~A Zeithaml, and Leonard~L Berry.
+\newblock A conceptual model of service quality and its implications for future
+  research.
+\newblock {\em The Journal of Marketing}, pages 41--50, 1985.
+
+\bibitem{pitt1995service}
+Leyland~F Pitt, Richard~T Watson, and C~Bruce Kavan.
+\newblock Service quality: a measure of information systems effectiveness.
+\newblock {\em MIS quarterly}, pages 173--187, 1995.
+
+\bibitem{ramesh2001toward}
+Balasubramaniam Ramesh and Matthias Jarke.
+\newblock Toward reference models for requirements traceability.
+\newblock {\em Software Engineering, IEEE Transactions on}, 27(1):58--93, 2001.
+
+\bibitem{Robinson:2006:REJ}
+W.~N. Robinson.
+\newblock A requirements monitoring framework for enterprise systems.
+\newblock {\em Requir. Eng.}, 11(1):17--41, 2006.
+
+\bibitem{robinson2003requirements}
+William~N Robinson, Suzanne~D Pawlowski, and Vecheslav Volkov.
+\newblock Requirements interaction management.
+\newblock {\em ACM Computing Surveys (CSUR)}, 35(2):132--190, 2003.
+
+\bibitem{sindre2005eliciting}
+Guttorm Sindre and Andreas~L Opdahl.
+\newblock Eliciting security requirements with misuse cases.
+\newblock {\em Requirements Engineering}, 10(1):34--44, 2005.
+
+\bibitem{Souza+:2012:CSRD}
+V.~E.~S. Souza, A.~Lapouchnian, K.~Angelopoulos, and J.~Mylopoulos.
+\newblock Requirements-driven software evolution.
+\newblock {\em Computer Science - Research and Development}, pages 1--19, 2012.
+
+\bibitem{souza-et-al:sesas13}
+V.~E.~S. Souza, A.~Lapouchnian, W.~N. Robinson, and J.~Mylopoulos.
+\newblock {Awareness Requirements}.
+\newblock In Rog\'{e}rio Lemos, Holger Giese, Hausi~A. M\"{u}ller, and Mary
+  Shaw, editors, {\em Software Engineering for Self-Adaptive Systems II},
+  volume 7475 of {\em Lecture Notes in Computer Science}, pages 133--161.
+  Springer, 2013.
+
+\bibitem{van2001goal}
+Axel Van~Lamsweerde.
+\newblock Goal-oriented requirements engineering: A guided tour.
+\newblock In {\em Requirements Engineering, 2001. Proceedings. Fifth IEEE
+  International Symposium on}, pages 249--262. IEEE, 2001.
+
+\bibitem{van1998managing}
+Axel Van~Lamsweerde, Robert Darimont, and Emmanuel Letier.
+\newblock Managing conflicts in goal-driven requirements engineering.
+\newblock {\em Software Engineering, IEEE Transactions on}, 24(11):908--926,
+  1998.
+
+\bibitem{van2000handling}
+Axel van Lamsweerde and Emmanuel Letier.
+\newblock Handling obstacles in goal-oriented requirements engineering.
+\newblock {\em Software Engineering, IEEE Transactions on}, 26(10):978--1005,
+  2000.
+
+\bibitem{whittle2009relax}
+Jon Whittle, Peter Sawyer, Nelly Bencomo, Betty~HC Cheng, and J-M Bruel.
+\newblock Relax: Incorporating uncertainty into the specification of
+  self-adaptive systems.
+\newblock In {\em Requirements Engineering Conference, 2009. RE'09. 17th IEEE
+  International}, pages 79--88. IEEE, 2009.
+
+\bibitem{yannakakis1991expressing}
+Mihalis Yannakakis.
+\newblock Expressing combinatorial optimization problems by linear programs.
+\newblock {\em Journal of Computer and System Sciences}, 43(3):441--466, 1991.
+
+\bibitem{zave1997four}
+Pamela Zave and Michael Jackson.
+\newblock Four dark corners of requirements engineering.
+\newblock {\em ACM Transactions on Software Engineering and Methodology
+  (TOSEM)}, 6(1):1--30, 1997.
+
+\bibitem{zeithaml1990delivering}
+Valarie~A Zeithaml, Leonard~L Berry, and Ananthanarayanan Parasuraman.
+\newblock {\em Delivering Quality Service: Balancing Customer Perceptions and
+  Expectations}.
+\newblock Free Press, New York, 1990.
+
+\bibitem{zeithaml1996behavioral}
+Valarie~A Zeithaml, Leonard~L Berry, and Ananthanarayanan Parasuraman.
+\newblock The behavioral consequences of service quality.
+\newblock {\em The Journal of Marketing}, pages 31--46, 1996.
+
+\end{thebibliography}

@@ -1,0 +1,60 @@
+This is BibTeX, Version 0.99d (TeX Live 2013)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: rpas-for-arxiv.aux
+The style file: plain.bst
+Database file #1: references.bib
+Repeated entry---line 292 of file references.bib
+ : @book{cheng2009software
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 947 of file references.bib
+ : @incollection{giorgini2003reasoning
+ :                                    ,
+I'm skipping whatever remains of this entry
+A bad cross reference---entry "Fickas+:1995:RE"
+refers to entry "DBLP:conf/re/1995", which doesn't exist
+Warning--I didn't find a database entry for "DBLP:conf/re/1995"
+Warning--there's a number but no volume in boehm1984software
+Warning--can't use both volume and number fields in letier2004reasoning
+You've used 63 entries,
+            2118 wiz_defined-function locations,
+            853 strings with 15171 characters,
+and the built_in function-call counts, 25128 in all, are:
+= -- 2565
+> -- 1149
+< -- 30
++ -- 458
+- -- 386
+* -- 1747
+:= -- 3964
+add.period$ -- 212
+call.type$ -- 63
+change.case$ -- 370
+chr.to.int$ -- 0
+cite$ -- 65
+duplicate$ -- 1001
+empty$ -- 1948
+format.name$ -- 386
+if$ -- 5433
+int.to.chr$ -- 0
+int.to.str$ -- 63
+missing$ -- 71
+newline$ -- 318
+num.names$ -- 128
+pop$ -- 428
+preamble$ -- 1
+purify$ -- 315
+quote$ -- 0
+skip$ -- 722
+stack$ -- 0
+substring$ -- 1692
+swap$ -- 310
+text.length$ -- 30
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 236
+warning$ -- 2
+while$ -- 258
+width$ -- 65
+write$ -- 712
+(There were 3 error messages)
